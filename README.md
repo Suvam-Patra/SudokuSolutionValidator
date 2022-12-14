@@ -1,12 +1,7 @@
-# OS_miniproject
+# Sudoku Solution Validator
 
 /**
- * Multi-threaded Sudoku Solution Validator by:
-   Geheron Aribam 200905394
-   Suvam Patra 200905178
-   Rohith Surapuraju 200905290
-   Nagam Venkata Manoj Kumar 200905262
- *
+ 
  * This program defines a sudoku puzzle solution and then determines whether 
  * the puzzle solution is valid using 27 threads. 9 for each 3x3 subsection, 9
  * for the 9 columns, and 9 for the 9 rows. Each thread updates their index in 
